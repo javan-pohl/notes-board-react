@@ -3,22 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@hapi/hapi": "^20.1.4",
-    "@hapi/inert": "^6.0.3",
-    "@hapi/vision": "^5.5.4",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "dotenv": "^10.0.0",
-    "moment": "^2.29.1",
-    "path": "^0.12.7",
-    "pug": "^3.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "sequelize": "^6.6.2",
-    "slug": "^5.0.1",
-    "sqlite3": "^5.0.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
